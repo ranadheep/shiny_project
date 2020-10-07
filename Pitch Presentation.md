@@ -44,5 +44,6 @@ Summary of accidents per classification
 
  Death Injury   None 
     32   3997   5661 
-Shiny App
+
+# Shiny App
 ![](https://github.com/omershect/Course-Project-Shiny-Application-and-Reproducible-Pitch/blob/master/reproducible-pitch-presentation/ShinyApp.PNG)
